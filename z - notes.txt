@@ -1,0 +1,5 @@
+To run server
+    cd tutorial2022
+    py manage.py runserver
+
+    default port is 8000, to change it just specify it after runserver
